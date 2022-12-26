@@ -1,2 +1,1 @@
-This is my first JavaScript project. Please be gentle.
-say what you want
+This is my first JavaScript project. Let's do this.
